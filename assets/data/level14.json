@@ -27,9 +27,8 @@
         {"name": "Trap", "id": 40, "_eid": "81422360", "x": 448, "y": 340, "originX": 0, "originY": 0},
         {"name": "Trap", "id": 41, "_eid": "81422360", "x": 512, "y": 340, "originX": 0, "originY": 0},
         {"name": "Trap", "id": 42, "_eid": "81422360", "x": 544, "y": 340, "originX": 0, "originY": 0},
-        {"name": "Trap", "id": 43, "_eid": "81422360", "x": 576, "y": 340, "originX": 0, "originY": 0},
         {"name": "Trap", "id": 44, "_eid": "81422360", "x": 96, "y": 340, "originX": 0, "originY": 0},
-        {"name": "Troll", "id": 46, "_eid": "16318309", "x": 560, "y": 340, "originX": 0, "originY": 0}
+        {"name": "Spider", "id": 47, "_eid": "84694817", "x": 544, "y": 340, "originX": 0, "originY": 0}
       ]
     },
     {
